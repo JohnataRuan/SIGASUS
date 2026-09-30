@@ -1,2 +1,2 @@
 # SIGASUS
-Projeto Integrador do Periodo II
+Projeto Integrador Periodo II
